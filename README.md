@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/danielbolee/">
   <img align="left" alt="Daniel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/ToastInspector">
+  <img align="left" alt="Daniel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 <a href="https://instagram.com/dxnielbhlee">
   <img align="left" alt="Ethan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -13,4 +16,4 @@
 <br />
 <br />
 
-I'm Daniel Bo Lee, a computer science student at the University of California, Irvine. Feel free to reach out to me at one of the links above to connect!
+I'm Daniel Bo Lee, a computer science student at the University of California, Irvine. Feel free to reach out to me at one of the links above to connect! Or email directly daniebl1@uci.edu
