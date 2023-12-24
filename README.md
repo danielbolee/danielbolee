@@ -13,4 +13,4 @@
 <br />
 <br />
 
-I'm Daniel Lee, a computer science student at the University of California, Irvine. Feel free to reach out to me at one of the links above to connect! Or email directly daniebl1@uci.edu
+I'm Daniel, a computer science student at the University of California, Irvine. Feel free to reach out to me at one of the links above to connect! Or email directly daniebl1@uci.edu
